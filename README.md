@@ -1,19 +1,6 @@
 # Reconhecimento Facial para Detecção de Doença Renal Crônica
 Projeto de Formatura da Escola Politécnica da USP: Reconhecimento Facial para Detecção de Doença Renal Crônica .
 
-Integrantes:
-- Gabriel Zambelli Scalabrini
-- João Victor Texeira Degelo
-- Johan Su Kwok
-
-Orientadora:
-- Profa. Dra. Anarosa Alves Franco Brandão
-
-Coorientadores:
-- Profa. Dra. Daniela Ponce
-- Profa. Dra. Maristela Carvalho da Costa
-- Prof. Rogerio da Hora Passos
-
 ## Resumo
 
 A Doença Renal Crônica (DRC) afeta um grande número de pessoasem todo o mundo. Considerando apenas o cenário brasileiro, estima-se que mais de 10 milhões de cidadãos brasileiros tenham DRC, com 90 mil em tratamento dialítico. Portanto, a DRC impacta a sociedade de duas maneiras: como problema de saúde pública e como problema econômico. Este trabalho propõe o desenvolvimento de uma solução baseada em inteligência artificial
@@ -58,3 +45,18 @@ Ao final do treinamento, o modelo desenvolvido apresentou desempenho superior ao
 
 
 ![Performance dos algoritmos selecionados no conjunto de teste](images/selected-test.png)
+
+## Autores
+
+Integrantes:
+- Gabriel Zambelli Scalabrini 
+- João Victor Texeira Degelo
+- Johan Su Kwok
+
+Orientadora:
+- Profa. Dra. Anarosa Alves Franco Brandão
+
+Coorientadores:
+- Profa. Dra. Daniela Ponce
+- Profa. Dra. Maristela Carvalho da Costa
+- Prof. Rogerio da Hora Passos
