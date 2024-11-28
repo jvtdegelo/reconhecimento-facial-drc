@@ -3,7 +3,7 @@ Projeto de Formatura da Escola Politécnica da USP: Reconhecimento Facial para D
 
 ## Resumo
 
-A Doença Renal Crônica (DRC) afeta um grande número de pessoasem todo o mundo. Considerando apenas o cenário brasileiro, estima-se que mais de 10 milhões de cidadãos brasileiros tenham DRC, com 90 mil em tratamento dialítico. Portanto, a DRC impacta a sociedade de duas maneiras: como problema de saúde pública e como problema econômico. Este trabalho propõe o desenvolvimento de uma solução baseada em inteligência artificial
+A Doença Renal Crônica (DRC) afeta um grande número de pessoas em todo o mundo. Considerando apenas o cenário brasileiro, estima-se que mais de 10 milhões de cidadãos brasileiros tenham DRC, com 90 mil em tratamento dialítico. Portanto, a DRC impacta a sociedade de duas maneiras: como problema de saúde pública e como problema econômico. Este trabalho propõe o desenvolvimento de uma solução baseada em inteligência artificial
 utilizando imagens do paciente para auxiliar no diagnóstico de DRC. O projeto inclui o desenvolvimento de um aplicativo para a coleta de dados, além do desenvolvimento de um
 sistema de diagnóstico contendo um aplicativo destinado aos profissionais de saúde. Para isso, foram treinandos modelos de aprendizado de máquina com informações demográficas, de saúde e imagens faciais e das mãos. A aplicação clínica da solução visa aumentar a eficiência no diagnóstico precoce da DRC, reduzindo o impacto da doença por meio de uma abordagem acessível e não invasiva.
 
