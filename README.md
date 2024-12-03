@@ -27,21 +27,21 @@ Para o desenvolvimento dos sistemas, optou-se pela infraestrutura em nuvem da AW
 ![Arquitetura aplicativo de coleta](images/arq-coleta.png)
 ![Arquitetura aplicativo de diagnóstico](images/arq-diagnostico.png)
 
-Os aplicativos foram desenvolvidos utilizando React Native com Expo Go, assegurando compatibilidade arquitetural multiplataforma, publicados na Google Play store.
+Os aplicativos foram desenvolvidos utilizando React Native com Expo Go, assegurando compatibilidade arquitetural multiplataforma e publicados na Google Play Store.
 
 Para poder usar o aplicativo de coleta, é preciso inserir um token disponibilizado pelos pesquisadores no primeiro acesso. Após o login, o usuário é redirecionado à tela de lista de pacientes.
 
 ![Aplicativo de coleta: telas de login, primeiro acesso e lista de pacientes](images/coleta-1.png)
 
-Ao clicar no botão de criar paciente, o usuário pode inserir informações do paciente, assim como as fotos do rosto e das mãos. Assim que o paciente é criado, o usuário é redirecionado à lista de pacientes. Ao clicar em um paciente, é possível visualizar os seus dados e suas fotos, e também editar os dados ou substituir as fotos se necessário.
+Ao clicar no botão de criar paciente, o usuário pode inserir informações do paciente, bem como as fotos do rosto e das mãos. Assim que o paciente é criado, o usuário é redirecionado à lista de pacientes. Ao clicar em um paciente, é possível visualizar seus dados e suas fotos, além de editar os dados ou substituir as fotos, se necessário.
 
 ![Aplicativo de coleta: telas do paciente](images/coleta-2.png)
 
-O aplicativo de diagnóstico também possui o mesmo sistema de login, primeiro acesso, lista de pacientes e formulário de criação de pacientes. Porém, ao clicar em um paciente da lista, dessa vez é mostrado os seus dados e o seu histórico de diagnóstico, com a sua data e porcentagem do paciente ter DRC no diagnóstico.
+O aplicativo de diagnóstico também possui o mesmo sistema de login, primeiro acesso, lista de pacientes e formulário de criação de pacientes. Porém, ao clicar em um paciente da lista, são mostrados seus dados e o histórico de diagnóstico, com a data e a porcentagem de o paciente ter DRC no diagnóstico.
 
 ![Aplicativo de diagnóstico: telas do paciente](images/diag-1.png)
 
-Na aba de diagnósticos, é possível criar um novo diagnóstico, que usa os dados presentes além das fotos do paciente no estado atual. Ao clicar em um dos diagnósticos da lista, é possível visualizar os dados e as fotos do diagnóstico.
+Na aba de diagnósticos, é possível criar um novo diagnóstico, que utiliza os dados presentes, além das fotos do paciente no estado atual. Ao clicar em um dos diagnósticos da lista, é possível visualizar os dados e as fotos do diagnóstico.
 
 ![Aplicativo de diagnóstico: telas do paciente](images/diag-2.png)
 
@@ -76,5 +76,5 @@ Orientadora:
 Coorientadores:
 
 - Profa. Dra. Daniela Ponce - Faculdade de Medicina da Universidade Estadual Paulista (UNESP)
-- Profa. Dra. Maristela Carvalho da Costa - Hospital Israelita Albert Einstein
-- Prof. Rogerio da Hora Passos - Instituto do Coração e Hospital Santa Catarina
+- Profa. Dra. Maristela Carvalho da Costa - Instituto do Coração HCFMUSP e Hospital Santa Catarina
+- Prof. Rogerio da Hora Passos - Hospital Israelita Albert Einstein
